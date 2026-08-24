@@ -1,0 +1,10 @@
+item.omuzluk_leather_left.name=Left Leather Shoulder Pad
+item.omuzluk_leather_right.name=Right Leather Shoulder Pad
+item.omuzluk_iron_left.name=Left Iron Shoulder Pad
+item.omuzluk_iron_right.name=Right Iron Shoulder Pad
+item.omuzluk_gold_left.name=Left Gold Shoulder Pad
+item.omuzluk_gold_right.name=Right Gold Shoulder Pad
+item.omuzluk_diamond_left.name=Left Diamond Shoulder Pad
+item.omuzluk_diamond_right.name=Right Diamond Shoulder Pad
+
+container.omuzluk=Shoulder Pads
