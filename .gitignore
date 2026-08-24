@@ -1,0 +1,16 @@
+build/
+.gradle/
+eclipse/
+run/
+out/
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+bin/
+logs/
+forge*-changelog.txt
+build.log
