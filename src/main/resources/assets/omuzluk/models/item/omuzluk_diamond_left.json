@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "omuzluk:items/omuzluk_diamond_left"
+  }
+}
