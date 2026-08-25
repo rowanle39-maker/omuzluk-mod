@@ -20,7 +20,7 @@ jobs:
       - name: Set up Gradle 2.14 (ForgeGradle 2.3 uyumlu)
         uses: gradle/actions/setup-gradle@v3
         with:
-          gradle-version: '2.14'
+          gradle-version: '4.9'
 
       - name: Build with Gradle
         run: gradle build --stacktrace --no-daemon
