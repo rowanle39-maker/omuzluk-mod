@@ -1,11 +1,10 @@
 buildscript {
     repositories {
-        maven { url = 'https://files.minecraftforge.net/maven' }
-        maven { url = 'https://repo1.maven.org/maven2' }
+        maven { url = 'https://maven.minecraftforge.net' }
         mavenCentral()
     }
     dependencies {
-        classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '2.3-SNAPSHOT', changing: true
+        classpath group: 'com.anatawa12.forge', name: 'ForgeGradle', version: '2.3-1.0.+', changing: true
     }
 }
 apply plugin: 'net.minecraftforge.gradle.forge'
@@ -20,7 +19,7 @@ compileJava {
 }
 
 minecraft {
-    version = "1.12.2-14.23.5.2860"
+    version = "1.12.2-14.23.5.2859"
     runDir = "run"
     mappings = "stable_39"
 }
